@@ -1,0 +1,5 @@
+boto3==1.21.7
+Pyrebase==3.0.27
+requests==2.11.1
+streamlit==1.5.1
+streamlit_lottie==0.0.3
