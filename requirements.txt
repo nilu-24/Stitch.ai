@@ -3,3 +3,4 @@ Pyrebase
 requests
 streamlit
 streamlit_lottie
+pyrebase
