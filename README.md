@@ -3,6 +3,8 @@
 
 
 Demo: [https://www.youtube.com/watch?v=HFv41modKwI](https://www.youtube.com/watch?v=HFv41modKwI)
+
+Devpost: [https://devpost.com/software/stitch-ai](https://devpost.com/software/stitch-ai)
  
 ## Landing Page
 
