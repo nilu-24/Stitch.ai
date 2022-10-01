@@ -1,14 +1,15 @@
-# Stitch.ai
+# Stitch.ai - Full Stack AI Healthcare App
 
+Stitch.ai is a story-based social community which helps connect people suffering from similar health conditions using the power of Natural Language Processing.
 
+## CodeJam(XI) Winner
+Devpost: [https://devpost.com/software/stitch-ai](https://devpost.com/software/stitch-ai) 
 
 Demo: [https://www.youtube.com/watch?v=HFv41modKwI](https://www.youtube.com/watch?v=HFv41modKwI)
 
-Devpost: [https://devpost.com/software/stitch-ai](https://devpost.com/software/stitch-ai)
-
 Website: [https://stitch-srsefll6ha-uc.a.run.app/](https://stitch-srsefll6ha-uc.a.run.app/)
  
-## Landing Page
+## Home Page
 
 ![https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/854/348/datas/original.png](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/854/348/datas/original.png)
 
