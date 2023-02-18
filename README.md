@@ -11,11 +11,11 @@ Website: [https://stitch-srsefll6ha-uc.a.run.app/](https://stitch-srsefll6ha-uc.
  
 ## Home Page
 
-![https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/854/348/datas/original.png](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/854/348/datas/original.png)
+![https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/854/348/datas/gallery.jpg](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/854/348/datas/gallery.jpg)
 
 ## Matching
 
-![https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/854/349/datas/original.png](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/854/349/datas/original.png)
+![https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/854/350/datas/gallery.jpg](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/854/350/datas/gallery.jpg)
 
 ## Inspiration
 
