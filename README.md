@@ -7,7 +7,6 @@ Devpost: [https://devpost.com/software/stitch-ai](https://devpost.com/software/s
 
 Demo: [https://www.youtube.com/watch?v=HFv41modKwI](https://www.youtube.com/watch?v=HFv41modKwI)
 
-Website: [https://stitch-srsefll6ha-uc.a.run.app/](https://stitch-srsefll6ha-uc.a.run.app/)
  
 ## Home Page
 
